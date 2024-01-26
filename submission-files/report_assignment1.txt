@@ -1,0 +1,69 @@
+#Thread 1 results:
+Compressing input sequence using two-bit encoding.
+Completed in 87 msec 
+
+First 10 values of the compressed sequence:
+i	Hex value
+0	d60d60d6
+1	60d60d60
+2	d60d60d
+3	d60d60d6
+4	60d60d60
+5	d60d60d
+6	d60d60d6
+7	60d60d60
+8	d60d60d
+9	d60d60d6
+
+#Thread 2 results:
+Compressing input sequence using two-bit encoding.
+Completed in 72 msec 
+
+First 10 values of the compressed sequence:
+i	Hex value
+0	d60d60d6
+1	60d60d60
+2	d60d60d
+3	d60d60d6
+4	60d60d60
+5	d60d60d
+6	d60d60d6
+7	60d60d60
+8	d60d60d
+9	d60d60d6
+
+#Thread 4 results:
+Compressing input sequence using two-bit encoding.
+Completed in 47 msec 
+
+First 10 values of the compressed sequence:
+i	Hex value
+0	d60d60d6
+1	60d60d60
+2	d60d60d
+3	d60d60d6
+4	60d60d60
+5	d60d60d
+6	d60d60d6
+7	60d60d60
+8	d60d60d
+9	d60d60d6
+
+#Thread 8 results:
+Compressing input sequence using two-bit encoding.
+Completed in 41 msec 
+
+First 10 values of the compressed sequence:
+i	Hex value
+0	d60d60d6
+1	60d60d60
+2	d60d60d
+3	d60d60d6
+4	60d60d60
+5	d60d60d
+6	d60d60d6
+7	60d60d60
+8	d60d60d
+9	d60d60d6
+
+Normalized speed ups = {1:1 2:1.208 4:1.851 8:2.12}

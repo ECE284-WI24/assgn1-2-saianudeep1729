@@ -1,0 +1,11 @@
+#define __TBB_VERSION_STRINGS(N) \
+#N": BUILD_HOST		snayini-29886 (x86_64)" ENDL \
+#N": BUILD_OS		DISTRIB_DESCRIPTION=Ubuntu 20.04.6 LTS" ENDL \
+#N": BUILD_KERNEL	Linux 3.10.0-1160.105.1.el7.x86_64 #1 SMP Thu Dec 7 15:39:45 UTC 2023" ENDL \
+#N": BUILD_GCC		g++ (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0" ENDL \
+#N": BUILD_LIBC	2.31" ENDL \
+#N": BUILD_LD		" ENDL \
+#N": BUILD_TARGET	intel64 on cc9.4.0_libc2.31_kernel3.10.0" ENDL \
+#N": BUILD_COMMAND	/usr/bin/c++ -DTBB_USE_DEBUG -O0 -g -DDO_ITT_NOTIFY -DUSE_PTHREAD -pthread -m64 -mrtm -fPIC -flifetime-dse=1 -D__TBB_BUILD=1 -Wall -Wextra -Wno-parentheses -Wno-sized-deallocation -DTBB_SUPPRESS_DEPRECATED_MESSAGES=1 -D__TBB_CPF_BUILD=1 -I/home/snayini/oneTBB-2019_U9/./src -I/home/snayini/oneTBB-2019_U9/./src/rml/include -I/home/snayini/oneTBB-2019_U9/./include -I." ENDL \
+
+#define __TBB_DATETIME "Fri Jan 26 19:57:32 UTC 2024"

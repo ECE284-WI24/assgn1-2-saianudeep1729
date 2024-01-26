@@ -1,0 +1,3 @@
+/home/snayini/assgn1-2-saianudeep1729/build/CMakeFiles/rebuild_cache.dir
+/home/snayini/assgn1-2-saianudeep1729/build/CMakeFiles/edit_cache.dir
+/home/snayini/assgn1-2-saianudeep1729/build/CMakeFiles/seedTable.dir
