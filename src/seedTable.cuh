@@ -27,4 +27,3 @@ void seedTableOnGpu (
     uint32_t* kmerOffset,
     size_t* kmerPos);
 }
-
